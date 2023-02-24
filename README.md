@@ -4,7 +4,7 @@
 - 💻 NFTs, crypto, blockchain ...
 - 💞️ Music, movies, skate ...
 - 📐 Projects:
--  🧑‍🚀 https://twitter.com/AstronautsAreUs
+-  🧑‍🚀 https://twitter.com/LASRNFT
 - 🔗 Links:
 -  🐦 https://twitter.com/noizecherry9987
-- 📫 Reach me at cherrynoize9987@outlook.com
+- 📫 Reach out to me @ cherrynoize9987@outlook.com
