@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @cherrynoize
-- 👀 I’m interested in ...
-- 🌱 Solidity, Rust, Solana ...
-- 💻 NFTs, crypto, blockchain ...
-- 💞️ Music, movies, skate ...
-- 📐 Projects:
--  🧑‍🚀 https://twitter.com/LASRNFT
-- 🔗 Links:
--  🐦 https://twitter.com/noizecherry9987
-- 📫 Reach out to me @ cherrynoize9987@outlook.com
+# config files and silly programs
+
+- 🧑‍🚀 https://twitter.com/LASRNFT
+- 🐦 https://twitter.com/noizecherry9987
+- 📫 cherrynoize9987@outlook.com
