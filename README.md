@@ -1,4 +1,4 @@
-# config files and silly programs
+# dotfiles and silly programs
 
 - 🌐 https://astronautsnft.xyz
 - ☄️ https://twitter.com/LASRNFT
