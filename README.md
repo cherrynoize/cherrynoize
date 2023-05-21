@@ -1,6 +1,6 @@
 # dotfiles and silly programs
 
-- 🌐 https://astronautsnft.xyz
+- 🌐 https://cherrynoize.github.io
 - ☄️ https://twitter.com/LASRNFT
 - 🐦 https://twitter.com/noizecherry9987
-- 📫 cherrynoize9987@outlook.com
+- 📫 (cherrynoize@duck.com)[cherrynoize@duck.com]
