@@ -1,4 +1,4 @@
-# dotfiles and silly programs
+# code dumpster
 
 - 🌐 https://cherrynoize.github.io
 - 📫 cherrynoize@duck.com
