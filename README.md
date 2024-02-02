@@ -1,4 +1,4 @@
-# code dumpster
+# my own personal code dumpster
 
 - 🌐 https://cherrynoize.github.io
 - 📫 cherrynoize@duck.com
