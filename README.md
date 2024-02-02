@@ -1,6 +1,8 @@
 # dotfiles and silly programs
 
 - 🌐 https://cherrynoize.github.io
-- ☄️ https://twitter.com/LASRNFT
-- 🐦 https://twitter.com/noizecherry9987
 - 📫 cherrynoize@duck.com
+
+## I also make music
+
+[ciliegia suicidio](https://open.spotify.com/artist/4SEMUz1c0Z8kEc9E9NbnS3)
