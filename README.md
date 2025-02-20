@@ -1,8 +1,7 @@
-# dotfiles and silly programs
+# dotfiles and silly apps
 
-- 🌐 https://cherrynoize.github.io
 - 📫 cherrynoize@duck.com
 
-## I also make music
+## I make music too
 
 - [ciliegia suicidio](https://open.spotify.com/artist/4SEMUz1c0Z8kEc9E9NbnS3)
