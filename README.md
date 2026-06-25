@@ -1,4 +1,4 @@
-# dotfiles and silly apps
+# dotfiles and daft apps
 
 - 📫 cherrynoize@duck.com
 
@@ -6,6 +6,6 @@
 
 - [ciliegia suicidio](https://open.spotify.com/artist/4SEMUz1c0Z8kEc9E9NbnS3)
 
-## If for some reason I deserved this
+## If for some reason I deserve this
 
 [**Buy me a coke 💙**](https://cherrynoize.github.io/#/contribute)
